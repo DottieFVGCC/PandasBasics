@@ -1,0 +1,3 @@
+#run  = "python getInvasiveSpeciesData.py"
+#run = "python getChicagoVacByZipData.py"
+run = "python main.py"
